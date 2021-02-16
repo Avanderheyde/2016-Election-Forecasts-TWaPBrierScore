@@ -1,6 +1,8 @@
-# Grading The 2016 Election Forecasts
+# Grading The 2016 Election Forecasts - using the TWaP Brier Score
 
 This repository contains data and code supporting BuzzFeed News' [evaluation of forecasters' predictions for the November 2016 U.S. presidential and Senate elections](https://www.buzzfeed.com/jsvine/2016-election-forecast-grades).
+
+The TWaP Brier Score comes from [this medium article](https://jay-yonamine.medium.com/on-the-objective-evaluation-of-election-forecasting-performance-and-improvements-to-the-brier-score-21b13147070c)
 
 ## Methodology
 
